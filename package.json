@@ -1,0 +1,23 @@
+{
+  "name": "alphagotchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.28.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphagotchi-Game/alphagotchi.git"
+  },
+  "author": "Isaac Watts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphagotchi-Game/alphagotchi/issues"
+  },
+  "homepage": "https://github.com/Alphagotchi-Game/alphagotchi#readme"
+}
